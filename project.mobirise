@@ -674,7 +674,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Sibelozavci.com",
                 "active": true
               },
               {
@@ -686,7 +686,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Tuncaysoyak.com",
                 "active": false
               },
               {
@@ -698,7 +698,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "3emproje.com",
                 "active": false
               },
               {
@@ -710,7 +710,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Semta.com.tr",
                 "active": false
               },
               {
@@ -722,7 +722,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Cozummobil.com.tr",
                 "active": false
               },
               {
@@ -734,7 +734,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Aydinahsap.com",
                 "active": false
               },
               {
@@ -746,7 +746,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "PointandMark.com",
                 "active": false
               },
               {
@@ -758,7 +758,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Ayakmodasi.com",
                 "active": false
               }
             ]
