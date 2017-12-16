@@ -575,19 +575,19 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Awesome",
+                "tags": "Health",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sibelozavci-1291x894.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sibelozavci-1291x894-800x553.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"http://sibelozavci.com\" target=\"_blank\">Sibelozavci.com</a>",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Sport",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -611,7 +611,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Construction",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -623,7 +623,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Health",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -635,7 +635,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Furniture",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -647,7 +647,7 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "E-Commerce",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -659,7 +659,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Blog",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
