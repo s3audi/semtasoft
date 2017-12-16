@@ -676,7 +676,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Sibelozavci.com",
+                "caption": "<a href=\"http://sibelozavci.com\" target=\"_blank\">Sibelozavci.com</a>",
                 "active": true
               },
               {
@@ -688,7 +688,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Tuncaysoyak.com",
+                "caption": "<a href=\"http://tuncaysoyak.com\">Tuncaysoyak.com</a>",
                 "active": false
               },
               {
@@ -700,7 +700,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "3emproje.com",
+                "caption": "<a href=\"http://3emproje.com\" target=\"_blank\">3emproje.com</a>",
                 "active": false
               },
               {
@@ -712,7 +712,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Semta.com.tr",
+                "caption": "<a href=\"http://semta.com.tr\" target=\"_blank\">Semta.com.tr</a>",
                 "active": false
               },
               {
@@ -724,7 +724,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Cozummobil.com.tr",
+                "caption": "<a href=\"http://cozummobil.com.tr\" target=\"_blank\">Cozummobil.com.tr</a>",
                 "active": false
               },
               {
@@ -736,7 +736,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Aydinahsap.com",
+                "caption": "<a href=\"http://aydinahsap.com\" target=\"_blank\">Aydinahsap.com</a>",
                 "active": false
               },
               {
@@ -748,7 +748,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "PointandMark.com",
+                "caption": "<a href=\"http://shop.pointandmark.com\" target=\"_blank\">PointandMark.com</a>",
                 "active": false
               },
               {
@@ -760,7 +760,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Ayakmodasi.com",
+                "caption": "<a href=\"http://ayakmodasi.com\" target=\"_blank\">Ayakmodasi.com</a>",
                 "active": false
               }
             ]
