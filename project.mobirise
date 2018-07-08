@@ -627,7 +627,7 @@
                 "title": "Forlife"
               },
               {
-                "tags": "Sport",
+                "tags": "Health",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -637,6 +637,19 @@
                 "customStyle1": "display-7",
                 "caption": "<a href=\"http://yakupluspor.com\" target=\"_blank\">Yakupluspor.com (TIKLAYINIZ)</a>",
                 "active": false
+              },
+              {
+                "tags": "E-Commerce",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/nadidekorkut-1517x933.png",
+                "thumb": "@PROJECT_PATH@/assets/images/nadidekorkut-1517x933-800x492.png",
+                "alt": "Nadidekorkut",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"http://nadidekorkut.semtasoft.com\" target=\"_blank\">Nadidekorkut.com (TIKLAYINIZ)</a>",
+                "active": true,
+                "title": "Semtasoft"
               },
               {
                 "tags": "Health",
@@ -744,7 +757,7 @@
                 "alt": "Zekiplastik.com",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"http://zekiplastik.com\" target=\"_blank\">Zekiplastik.com (TIKLAYINIZ)</a>",
-                "active": true,
+                "active": false,
                 "title": "Zekiplastik"
               }
             ]
