@@ -588,6 +588,45 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
+                "tags": "E-Commerce",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/nalankoc-1436x929.png",
+                "thumb": "@PROJECT_PATH@/assets/images/nalankoc-1436x929-800x518.png",
+                "alt": "Forlife Sport Center",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"http://nalankoc.com\" target=\"_blank\">Nalankoc.com (TIKLAYINIZ)</a>",
+                "active": false,
+                "title": "Forlife"
+              },
+              {
+                "tags": "E-Commerce",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/seramikkapla-1383x928.png",
+                "thumb": "@PROJECT_PATH@/assets/images/seramikkapla-1383x928-800x537.png",
+                "alt": "Forlife Sport Center",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"http://seramikkapla.com\" target=\"_blank\">Seramikkapla.com (TIKLAYINIZ)</a>",
+                "active": true,
+                "title": "Forlife"
+              },
+              {
+                "tags": "Sport",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/forlifesportcenter-1428x917.png",
+                "thumb": "@PROJECT_PATH@/assets/images/forlifesportcenter-1428x917-800x514.png",
+                "alt": "Forlife Sport Center",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"http://forlifesportcenter.com\" target=\"_blank\">Forlifesportcenter.com (TIKLAYINIZ)</a>",
+                "active": false,
+                "title": "Forlife"
+              },
+              {
                 "tags": "Sport",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -684,19 +723,6 @@
                 "active": false
               },
               {
-                "tags": "Sport",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/forlifesportcenter-1428x917.png",
-                "thumb": "@PROJECT_PATH@/assets/images/forlifesportcenter-1428x917-800x514.png",
-                "alt": "Forlife Sport Center",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"http://semta.com.tr\" target=\"_blank\">Forlifesportcenter.com (TIKLAYINIZ)</a>",
-                "active": true,
-                "title": "Forlife"
-              },
-              {
                 "tags": "Blog",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -707,19 +733,6 @@
                 "customStyle1": "display-7",
                 "caption": "<a href=\"http://ayakmodasi.com\" target=\"_blank\">Ayakmodasi.com</a>",
                 "active": false
-              },
-              {
-                "tags": "E-Commerce",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/nalankoc-1436x929.png",
-                "thumb": "@PROJECT_PATH@/assets/images/nalankoc-1436x929-800x518.png",
-                "alt": "Forlife Sport Center",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"http://nalankoc.com\" target=\"_blank\">Nalankoc.com (TIKLAYINIZ)</a>",
-                "active": false,
-                "title": "Forlife"
               }
             ]
           }
