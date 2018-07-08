@@ -610,7 +610,7 @@
                 "alt": "Forlife Sport Center",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"http://seramikkapla.com\" target=\"_blank\">Seramikkapla.com (TIKLAYINIZ)</a>",
-                "active": true,
+                "active": false,
                 "title": "Forlife"
               },
               {
@@ -635,7 +635,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/yakuplu2018-1391x916-800x526.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://yakupluspor.com\" target=\"_blank\">Yakupluspor.com</a>",
+                "caption": "<a href=\"http://yakupluspor.com\" target=\"_blank\">Yakupluspor.com (TIKLAYINIZ)</a>",
                 "active": false
               },
               {
@@ -659,7 +659,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tuncaysoyak-1491x921-800x494.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://tuncaysoyak.com\">Tuncaysoyak.com</a>",
+                "caption": "<a href=\"http://tuncaysoyak.com\">Tuncaysoyak.com (TIKLAYINIZ)</a>",
                 "active": false
               },
               {
@@ -733,6 +733,19 @@
                 "customStyle1": "display-7",
                 "caption": "<a href=\"http://ayakmodasi.com\" target=\"_blank\">Ayakmodasi.com</a>",
                 "active": false
+              },
+              {
+                "tags": "E-Commerce",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/zekiplastik-1417x937.png",
+                "thumb": "@PROJECT_PATH@/assets/images/zekiplastik-1417x937-800x529.png",
+                "alt": "Zekiplastik.com",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"http://zekiplastik.com\" target=\"_blank\">Zekiplastik.com (TIKLAYINIZ)</a>",
+                "active": true,
+                "title": "Zekiplastik"
               }
             ]
           }
