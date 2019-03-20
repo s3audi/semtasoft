@@ -737,18 +737,6 @@
                 "active": false
               },
               {
-                "tags": "Blog",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ayakmodasi-1059x915.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ayakmodasi-1059x915-800x691.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"http://ayakmodasi.com\" target=\"_blank\">Ayakmodasi.com</a>",
-                "active": false
-              },
-              {
                 "tags": "E-Commerce",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -760,6 +748,18 @@
                 "caption": "<a href=\"http://zekiplastik.com\" target=\"_blank\">Zekiplastik.com (TIKLAYINIZ)</a>",
                 "active": false,
                 "title": "Zekiplastik"
+              },
+              {
+                "tags": "Blog",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ayakmodasi-1059x915.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ayakmodasi-1059x915-800x691.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"http://ayakmodasi.com\" target=\"_blank\">Ayakmodasi.com</a>",
+                "active": false
               }
             ]
           }
